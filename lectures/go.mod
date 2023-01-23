@@ -1,3 +1,3 @@
-module 1.go
+module Task.go
 
 go 1.19
