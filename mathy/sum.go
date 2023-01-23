@@ -1,4 +1,4 @@
-package math
+package mathy
 
 func Sum(xi ...int) int {
 	sum := 0
